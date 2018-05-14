@@ -16,9 +16,20 @@ my-app/
     App.css
     App.js
     App.test.js
+    containers/
+      about/
+        index.js
+      app/
+        index.js
+      home/
+        index.js
     index.css
     index.js
     logo.svg
+    modules/
+      counter.js
+      index.js
+    store.js
 ```
 
 For the project to build, **these files must exist with exact filenames**:
